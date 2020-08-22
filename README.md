@@ -1,3 +1,3 @@
-# demo1-node-and-workflow
+# MVP-1-Node
 
-Testando a integração contínua (continuous integration, npm ci) com o Github Actions e o Node
+Criando um "produto mínimo viável" em Node.
