@@ -31,3 +31,5 @@
 
 console.log('Testes iniciais');
 // Ok, rodou isso, então quero já montar o pacote para depois ir melhorando e acompanhando o fluxo
+
+// Evitar usar o yarn, pois o package-lock.json gerado pelo NPM é necessário no Github Actions
