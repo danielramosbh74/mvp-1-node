@@ -33,3 +33,14 @@ console.log('Testes iniciais');
 // Ok, rodou isso, então quero já montar o pacote para depois ir melhorando e acompanhando o fluxo
 
 // Evitar usar o yarn, pois o package-lock.json gerado pelo NPM é necessário no Github Actions
+// Executar npm install sem nenhum argumento após o install para resolver esta questõa do package-lock antes de fazer um novo git push para o Actions
+
+// Configurarei abaixo o teste exemplo oficial do Jest para que finalmente consiga executar o workflow completo sem erros e então ter uma "estrutura mínima" pronta para me concentrar na programação de algo útil de forma organizada seguindo as boas práticas.
+
+// Exemplo padrão para o Jest
+function sum(a, b) {
+    return a + b;
+  }
+  module.exports = sum;
+
+
