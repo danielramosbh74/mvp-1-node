@@ -1,0 +1,23 @@
+{
+  "name": "node-and-ci-workflow-demo-1",
+  "version": "1.0.0",
+  "description": "Demonstration of a workflow on Github Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielramosbh74/node-and-ci-workflow-demo-1.git"
+  },
+  "keywords": [
+    "github",
+    "actions"
+  ],
+  "author": "Daniel Ramos de Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielramosbh74/node-and-ci-workflow-demo-1/issues"
+  },
+  "homepage": "https://github.com/danielramosbh74/node-and-ci-workflow-demo-1#readme"
+}
