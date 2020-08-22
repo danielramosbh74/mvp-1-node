@@ -31,5 +31,3 @@
 
 console.log('Testes iniciais');
 // Ok, rodou isso, então quero já montar o pacote para depois ir melhorando e acompanhando o fluxo
-// Assim que possível instalar o webpack como dependência de desenvolvimento, mas hoje preciso manter o FOCO em completar o primeiro workflow automatizado no Github Actions
-
