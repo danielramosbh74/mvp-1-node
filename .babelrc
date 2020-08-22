@@ -1,0 +1,5 @@
+{
+    "presets": ["@babel/preset-env"]
+}
+
+// Configurações baseadas na aula Configurando o Babel do Módulo ES6 dos Cursos Starter da Rocketseat
